@@ -1,0 +1,64 @@
+    bulk_exercises=
+                "Sat": Chest & Triceps: Bench Press 4x8, Incline Press 3x10,
+                "Sun": Back & Biceps: Deadlifts 4x5, Pull-ups 3x10,
+                "Mon": Legs: Squats 4x8, Leg Press 3x10,
+                "Tue": Shoulders: Military Press 4x8, Lateral Raises 3x12,
+                "Wed": Arms: Close-grip Bench 4x8, Bicep Curls 3x12,
+                "Thu": Chest & Back: Incline Bench 4x8, Rows 3x10,
+                "Fri": Day off - Happy holiday!
+
+            "Cutting Plan": {
+                "Sat": HIIT Cardio: 30 min intervals,
+                "Sun": Full Body Circuit: Squats 3x15, Push-ups 3x15,
+                "Mon": Cardio + Core: 45 min cycling, Planks,
+                "Tue": Upper Body Superset: Bench + Rows 4x12,
+                "Wed": Lower Body + Cardio: Deadlifts 3x12, 20 min stair,
+                "Thu": Circuit Training: 5 exercises x 4 rounds,
+                "Fri":Day off - Happy holiday!
+            "Cardio Plan": {
+
+                "Sat": Long Distance Run: 60 minutes,
+                "Sun": Swimming: 45 minutes,
+                "Mon": Cycling: 90 minutes,
+                "Tue": Elliptical: 60 minutes intervals,
+                "Wed": Rowing: 45 minutes,
+                "Thu": Jump Rope + Running: 30+30 min
+                "Fri": Day off - Happy holiday!
+
+
+
+
+        Fridad= Day off - Happy holiday!
+
+
+
+ Cardio Training
+    cardio_exercises
+        Saturday=Dumbbell Shoulder Press (3x12) ,Lateral Raises (4x15)
+        Sunday=Pull-ups (3x Max),Barbell Bicep Curls (3x12)
+        Monday=Barbell Squats (3x8), Leg Press (3x12)
+        tuesday=
+        wednesday=
+        thursday=
+        Friday=
+
+
+
+Cutting Training
+
+Saturday =Cable Crossover (4x15), Push-ups (3x20),
+Sunday=Face Pulls (4x15), "Dumbbell Shrugs (3x15)
+Monday =Walking Lunges (3x20 steps), Glute Bridge (3x20),
+Tuesday=
+wednesday=
+Friday=Day off - Keep it clean!
+
+
+
+
+
+
+
+
+
+

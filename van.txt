@@ -1,0 +1,30 @@
+    bulking_nut_plan = {
+        "Saturday": ["4 Eggs", "100g Oats", "Banana", "Milk"],
+        "Sunday": ["200g Chicken breast", "150g Rice", "Broccoli", "Avocado"],
+        "Monday": ["200g Beef", "200g Sweet potato", "Mixed Salad", "Nuts"],
+        "Tuesday": ["Protein Shake", "Peanut butter toast", "2 Eggs", "Apple"],
+        "Wednesday": ["150g Salmon", "150g Pasta", "Asparagus", "Olive oil"],
+        "Thursday": ["Turkey sandwich", "Greek yogurt", "Oatmeal", "Berries"],
+        "Friday": ["Cheat Meal - Enjoy!"]
+    }
+
+    # 2. نظام التنشيف (Cutting Plan) - سعرات محددة وكاربو منخفض
+    cutting_nut_plan = {
+        "Saturday": ["3 Egg whites", "1 Whole egg", "Spinach", "Half grapefruit"],
+        "Sunday": ["150g Grilled Fish", "50g Brown rice", "Big Green Salad", "Lemon"],
+        "Monday": ["150g Chicken", "Small sweet potato", "Zucchini", "Almonds"],
+        "Tuesday": ["Low-fat Greek yogurt", "Chia seeds", "Blueberries", "Walnuts"],
+        "Wednesday": ["Tuna in water", "Rice cakes", "Cucumber", "Green tea"],
+        "Thursday": ["150g Turkey breast", "Broccoli", "Cauliflower", "1 Orange"],
+        "Friday": ["Cheat Meal - Limited portions"]
+    }
+
+    cardio_nut_plan = {
+        "Saturday": ["Tofu scramble", "Whole grain toast", "Spinach", "Orange juice"],
+        "Sunday": ["Lentil soup", "Quinoa salad", "Chickpeas", "Avocado"],
+        "Monday": ["Soy chunks curry", "100g Brown rice", "Steamed veggies", "Seeds"],
+        "Tuesday": ["Vegan protein shake", "Almond butter", "Oatmeal", "Banana"],
+        "Wednesday": ["Black bean burger", "Sweet potato fries", "Kale salad", "Walnuts"],
+        "Thursday": ["Tempeh stir-fry", "Noodles", "Mixed bell peppers", "Peanuts"],
+        "Friday": ["Plant-based Cheat Meal"]
+    }

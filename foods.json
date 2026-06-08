@@ -1,0 +1,576 @@
+{
+    "chicken_breast": {
+        "name": "صدور فراخ",
+        "cal": 165,
+        "protein": 31,
+        "carbs": 0,
+        "fats": 3.6
+    },
+    "white_rice": {
+        "name": "أرز أبيض",
+        "cal": 130,
+        "protein": 2.7,
+        "carbs": 28,
+        "fats": 0.3
+    },
+    "eggs": {
+        "name": "بيض",
+        "cal": 155,
+        "protein": 13,
+        "carbs": 1.1,
+        "fats": 11
+    },
+    "banana": {
+        "name": "موز",
+        "cal": 89,
+        "protein": 1.1,
+        "carbs": 23,
+        "fats": 0.3
+    },
+    "koshary_plate": {
+        "name": "طبق كشري متوسط",
+        "cal": 500,
+        "protein": 15,
+        "carbs": 80,
+        "fats": 12
+    },
+    "hawawshi": {
+        "name": "رغيف حواوشي",
+        "cal": 550,
+        "protein": 25,
+        "carbs": 45,
+        "fats": 30
+    },
+    "pizza_margherita": {
+        "name": "بيتزا مارجريتا (قطعة)",
+        "cal": 250,
+        "protein": 10,
+        "carbs": 30,
+        "fats": 10
+    },
+    "meat_pie": {
+        "name": "فطير مشلتت (100ج)",
+        "cal": 450,
+        "protein": 6,
+        "carbs": 40,
+        "fats": 30
+    },
+    "besara": {
+        "name": "بصارة",
+        "cal": 105,
+        "protein": 7,
+        "carbs": 18,
+        "fats": 1
+    },
+    "mahshi_warak_enab": {
+        "name": "محشي ورق عنب (اصباع)",
+        "cal": 45,
+        "protein": 1,
+        "carbs": 7,
+        "fats": 2
+    },
+    "mahshi_kromb": {
+        "name": "محشي كرنب (اصباع)",
+        "cal": 40,
+        "protein": 1,
+        "carbs": 6,
+        "fats": 1.5
+    },
+    "basbousa": {
+        "name": "بسبوسة (قطعة)",
+        "cal": 320,
+        "protein": 4,
+        "carbs": 50,
+        "fats": 12
+    },
+    "kunafa": {
+        "name": "كنافة (قطعة)",
+        "cal": 400,
+        "protein": 5,
+        "carbs": 45,
+        "fats": 22
+    },
+    "dark_chocolate": {
+        "name": "شوكولاتة دارك (20ج)",
+        "cal": 110,
+        "protein": 1.5,
+        "carbs": 9,
+        "fats": 8
+    },
+    "honey_white": {
+        "name": "عسل نحل (ملعقة)",
+        "cal": 64,
+        "protein": 0,
+        "carbs": 17,
+        "fats": 0
+    },
+    "jam_strawberry": {
+        "name": "مربى فراولة (ملعقة)",
+        "cal": 50,
+        "protein": 0,
+        "carbs": 13,
+        "fats": 0
+    },
+    "halawa": {
+        "name": "حلاوة طحينية",
+        "cal": 516,
+        "protein": 12,
+        "carbs": 53,
+        "fats": 30
+    },
+    "cheddar_cheese": {
+        "name": "جبنة شيدر",
+        "cal": 403,
+        "protein": 25,
+        "carbs": 1.3,
+        "fats": 33
+    },
+    "romi_cheese": {
+        "name": "جبنة رومي",
+        "cal": 380,
+        "protein": 20,
+        "carbs": 2,
+        "fats": 32
+    },
+    "feta_cheese": {
+        "name": "جبنة فيتا",
+        "cal": 264,
+        "protein": 14,
+        "carbs": 4,
+        "fats": 21
+    },
+    "cream_cheese": {
+        "name": "جبنة كريمي",
+        "cal": 342,
+        "protein": 6,
+        "carbs": 4,
+        "fats": 34
+    },
+    "black_coffee": {
+        "name": "قهوة سادة",
+        "cal": 2,
+        "protein": 0.1,
+        "carbs": 0,
+        "fats": 0
+    },
+    "green_tea": {
+        "name": "شاي أخضر",
+        "cal": 1,
+        "protein": 0,
+        "carbs": 0,
+        "fats": 0
+    },
+    "mango_juice": {
+        "name": "عصير مانجو طبيعي",
+        "cal": 60,
+        "protein": 0.5,
+        "carbs": 15,
+        "fats": 0.1
+    },
+    "soda_can": {
+        "name": "كانز مياه غازية",
+        "cal": 140,
+        "protein": 0,
+        "carbs": 39,
+        "fats": 0
+    },
+    "popcorn_plain": {
+        "name": "فشار بدون زيت",
+        "cal": 387,
+        "protein": 13,
+        "carbs": 78,
+        "fats": 4.5
+    },
+    "sunflower_seeds": {
+        "name": "لب عباد الشمس",
+        "cal": 584,
+        "protein": 21,
+        "carbs": 20,
+        "fats": 51
+    },
+    "cashews": {
+        "name": "كاجو",
+        "cal": 553,
+        "protein": 18,
+        "carbs": 30,
+        "fats": 44
+    },
+    "soy_beans": {
+        "name": "فول صويا",
+        "cal": 446,
+        "protein": 36,
+        "carbs": 30,
+        "fats": 20
+    },
+    "quinoa_cooked": {
+        "name": "كينوا مطبوخة",
+        "cal": 120,
+        "protein": 4.4,
+        "carbs": 21,
+        "fats": 1.9
+    },
+    "watermelon": {
+        "name": "بطيخ",
+        "cal": 30,
+        "protein": 0.6,
+        "carbs": 8,
+        "fats": 0.2
+    },
+    "peach": {
+        "name": "خوخ",
+        "cal": 39,
+        "protein": 0.9,
+        "carbs": 10,
+        "fats": 0.3
+    },
+    "pear": {
+        "name": "كمثرى",
+        "cal": 57,
+        "protein": 0.4,
+        "carbs": 15,
+        "fats": 0.1
+    },
+    "pineapple": {
+        "name": "أناناس",
+        "cal": 50,
+        "protein": 0.5,
+        "carbs": 13,
+        "fats": 0.1
+    },
+    "pomegranate": {
+        "name": "رمان",
+        "cal": 83,
+        "protein": 1.7,
+        "carbs": 19,
+        "fats": 1.2
+    },
+    "guava": {
+        "name": "جوافة",
+        "cal": 68,
+        "protein": 2.6,
+        "carbs": 14,
+        "fats": 1
+    },
+    "mushroom": {
+        "name": "مشروم / عيش غراب",
+        "cal": 22,
+        "protein": 3.1,
+        "carbs": 3.3,
+        "fats": 0.3
+    },
+    "green_peas": {
+        "name": "بسلة خضراء",
+        "cal": 81,
+        "protein": 5,
+        "carbs": 14,
+        "fats": 0.4
+    },
+    "carrots": {
+        "name": "جزر",
+        "cal": 41,
+        "protein": 0.9,
+        "carbs": 10,
+        "fats": 0.2
+    },
+    "garlic": {
+        "name": "ثوم",
+        "cal": 149,
+        "protein": 6,
+        "carbs": 33,
+        "fats": 0.5
+    },
+    "onion": {
+        "name": "بصل",
+        "cal": 40,
+        "protein": 1.1,
+        "carbs": 9,
+        "fats": 0.1
+    },
+    "eggplant": {
+        "name": "باذنجان",
+        "cal": 25,
+        "protein": 1,
+        "carbs": 6,
+        "fats": 0.2
+    },
+    "okra_bamia": {
+        "name": "بامية",
+        "cal": 33,
+        "protein": 1.9,
+        "carbs": 7,
+        "fats": 0.2
+    },
+    "chicken_nuggets": {
+        "name": "ناجتس دجاج (قطعة)",
+        "cal": 50,
+        "protein": 3,
+        "carbs": 4,
+        "fats": 3
+    },
+    "hot_dog": {
+        "name": "سجق / هوت دوج",
+        "cal": 290,
+        "protein": 10,
+        "carbs": 2,
+        "fats": 26
+    },
+    "mayonnaise": {
+        "name": "مايونيز (ملعقة كبيرة)",
+        "cal": 94,
+        "protein": 0.1,
+        "carbs": 0.1,
+        "fats": 10
+    },
+    "ketchup": {
+        "name": "كاتشب (ملعقة كبيرة)",
+        "cal": 20,
+        "protein": 0.2,
+        "carbs": 5,
+        "fats": 0.1
+    },
+    "big_mac": {
+        "name": "بيج ماك (ماكدونالدز)",
+        "cal": 550,
+        "protein": 25,
+        "carbs": 46,
+        "fats": 30
+    },
+    "cheese_burger_small": {
+        "name": "تشيز برجر صغير",
+        "cal": 300,
+        "protein": 15,
+        "carbs": 30,
+        "fats": 12
+    },
+    "zinger_sandwich": {
+        "name": "سندوتش زينجر (كنتاكي)",
+        "cal": 517,
+        "protein": 25,
+        "carbs": 47,
+        "fats": 26
+    },
+    "whopper": {
+        "name": "ووبر (برجر كينج)",
+        "cal": 660,
+        "protein": 28,
+        "carbs": 49,
+        "fats": 40
+    },
+    "shawarma_chicken_large": {
+        "name": "سندوتش شاورما فراخ كبير",
+        "cal": 430,
+        "protein": 28,
+        "carbs": 38,
+        "fats": 18
+    },
+    "shawarma_beef_large": {
+        "name": "سندوتش شاورما لحم كبير",
+        "cal": 520,
+        "protein": 25,
+        "carbs": 40,
+        "fats": 28
+    },
+    "kfc_thigh": {
+        "name": "ورك دجاج مقلي (كنتاكي)",
+        "cal": 280,
+        "protein": 19,
+        "carbs": 8,
+        "fats": 19
+    },
+    "kfc_breast": {
+        "name": "صدر دجاج مقلي (كنتاكي)",
+        "cal": 390,
+        "protein": 39,
+        "carbs": 11,
+        "fats": 21
+    },
+    "french_fries_large": {
+        "name": "بطاطس مقلية حجم كبير",
+        "cal": 510,
+        "protein": 7,
+        "carbs": 67,
+        "fats": 24
+    },
+    "onion_rings": {
+        "name": "حلقات بصل مقلية (6 قطع)",
+        "cal": 280,
+        "protein": 3,
+        "carbs": 30,
+        "fats": 16
+    },
+    "pizza_pepperoni_slice": {
+        "name": "بيتزا ببروني (قطعة)",
+        "cal": 280,
+        "protein": 12,
+        "carbs": 26,
+        "fats": 14
+    },
+    "pizza_veggie_slice": {
+        "name": "بيتزا خضروات (قطعة)",
+        "cal": 210,
+        "protein": 8,
+        "carbs": 25,
+        "fats": 8
+    },
+    "garlic_bread_piece": {
+        "name": "خبز بالثوم (قطعة)",
+        "cal": 150,
+        "protein": 4,
+        "carbs": 17,
+        "fats": 8
+    },
+    "croissant_plain": {
+        "name": "كرواسون سادة",
+        "cal": 231,
+        "protein": 5,
+        "carbs": 26,
+        "fats": 12
+    },
+    "donut_glazed": {
+        "name": "دوناتس سادة",
+        "cal": 190,
+        "protein": 2,
+        "carbs": 22,
+        "fats": 11
+    },
+    "pancake_syrup": {
+        "name": "بان كيك مع عسل (قطعة)",
+        "cal": 150,
+        "protein": 3,
+        "carbs": 28,
+        "fats": 3
+    },
+    "waffle_plain": {
+        "name": "وافل سادة",
+        "cal": 218,
+        "protein": 6,
+        "carbs": 25,
+        "fats": 10
+    },
+    "ice_cream_vanilla": {
+        "name": "أيس كريم فانيليا (بولا)",
+        "cal": 137,
+        "protein": 2,
+        "carbs": 15,
+        "fats": 7
+    },
+    "cheesecake_slice": {
+        "name": "تشيز كيك (قطعة)",
+        "cal": 400,
+        "protein": 6,
+        "carbs": 30,
+        "fats": 28
+    },
+    "chocolate_muffin": {
+        "name": "مافن شوكولاتة",
+        "cal": 350,
+        "protein": 5,
+        "carbs": 45,
+        "fats": 18
+    },
+    "rice_pudding": {
+        "name": "أرز بلبن",
+        "cal": 111,
+        "protein": 3,
+        "carbs": 18,
+        "fats": 3
+    },
+    "om_ali": {
+        "name": "أم علي (طبق صغير)",
+        "cal": 450,
+        "protein": 8,
+        "carbs": 50,
+        "fats": 25
+    },
+    "cappuccino_medium": {
+        "name": "كابتشينو (حجم وسط)",
+        "cal": 120,
+        "protein": 6,
+        "carbs": 10,
+        "fats": 6
+    },
+    "latte_medium": {
+        "name": "لاتيه (حجم وسط)",
+        "cal": 150,
+        "protein": 8,
+        "carbs": 13,
+        "fats": 7
+    },
+    "hot_chocolate": {
+        "name": "هوت شوكليت",
+        "cal": 200,
+        "protein": 5,
+        "carbs": 25,
+        "fats": 10
+    },
+    "milkshake_vanilla": {
+        "name": "ميلك شيك فانيليا",
+        "cal": 350,
+        "protein": 8,
+        "carbs": 50,
+        "fats": 14
+    },
+    "tahini_sauce": {
+        "name": "طحينة (ملعقة كبيرة)",
+        "cal": 90,
+        "protein": 2.5,
+        "carbs": 3,
+        "fats": 8
+    },
+    "garlic_dip_tomeya": {
+        "name": "تومية (ملعقة كبيرة)",
+        "cal": 75,
+        "protein": 0.2,
+        "carbs": 2,
+        "fats": 7.5
+    },
+    "bbq_sauce": {
+        "name": "صوص باربكيو (ملعقة)",
+        "cal": 30,
+        "protein": 0,
+        "carbs": 7,
+        "fats": 0
+    },
+    "fish_fingers": {
+        "name": "أصابع سمك مقلية (قطعة)",
+        "cal": 50,
+        "protein": 3,
+        "carbs": 4,
+        "fats": 2.5
+    },
+    "calamari_fried": {
+        "name": "كاليماري مقلي (100ج)",
+        "cal": 175,
+        "protein": 15,
+        "carbs": 8,
+        "fats": 7
+    },
+    "sushi_california_roll": {
+        "name": "سوشي كاليفورنيا (قطعة)",
+        "cal": 35,
+        "protein": 1,
+        "carbs": 7,
+        "fats": 0.5
+    },
+    "potato_chips_bag": {
+        "name": "كيس شيبسي صغير",
+        "cal": 160,
+        "protein": 2,
+        "carbs": 15,
+        "fats": 10
+    },
+    "biscuits_plain": {
+        "name": "بسكويت سادة (قطعة)",
+        "cal": 45,
+        "protein": 0.5,
+        "carbs": 7,
+        "fats": 2
+    },
+    "cupcake": {
+        "name": "كاب كيك",
+        "cal": 130,
+        "protein": 1.5,
+        "carbs": 18,
+        "fats": 6
+    }
+}
