@@ -18,4 +18,4 @@ PMI GYM is a feature-rich desktop application designed to manage gym operations 
 ## How to Run 🚀
 1. Clone this repository.
 2. Ensure you have Python 3.x installed.
-3. Run the main script: `python main.py`
+3. Run the main script: `Gym project.py`
